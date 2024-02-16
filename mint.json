@@ -12,7 +12,7 @@
     "dark": "#FFA000",
     "anchors": {
       "from": "#448AFF",
-      "to": "#FFA000"
+      "to": "#FFC107"
     }
   },
   "topbarLinks": [
